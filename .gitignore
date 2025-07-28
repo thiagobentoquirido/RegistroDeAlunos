@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# IDEs e editores
+.vscode/
+*.code-workspace
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+# Imagens e arquivos grandes
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Tkinter imagens
+images/
